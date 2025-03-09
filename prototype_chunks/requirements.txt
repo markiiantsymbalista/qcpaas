@@ -1,0 +1,3 @@
+qiskit==0.43.3
+qiskit-aer==0.12.2
+mitiq
